@@ -1,0 +1,13 @@
+{
+    "users" : [
+        {
+            "id": 1,
+            "name": "Petshi",
+            "email": "petshi@mail.ru",
+            "location": {
+                "country": "Moldova",
+                "city": "Anenii Noi"
+            }
+        }
+    ]
+}

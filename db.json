@@ -1,0 +1,18 @@
+{
+  "work" : [
+        {
+            "id": 2021510,
+            "client": "Valentin",
+            "date": "03.06.2022",
+            "phone": "069782362",
+            "device": "Notebook",
+            "equipment": "с зарядкой",
+            "condition": "Б/У",
+            "defect": "не подключается к интернету",
+            "whitch-repair": "Установка сетевой карты",
+            "price": "100",
+            "notified": "0",
+            "issued": "0"
+        }
+    ]
+}
